@@ -1,12 +1,12 @@
 # JohnnyOhms-<h1 align="center">Hi 👋, I'm JohnnyOhms</h1>
 
-<h3 align="center">A passionate Web developer from Nigeria I've been Learnig to code for 1year now, looking forward to connect and contribute with other devopers</h3>
+<h3 align="center">I'm a Passionate Web developer from Nigeria I've been Learnig to code for 1year now, looking forward to connect and contribute with other devopers</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnnyohms&label=Profile%20views&color=0e75b6&style=flat" alt="johnnyohms" /> </p>
 
 
 
-- 🔭 I’m currently working on **Problem solving projects**
+- 🔭 I’m currently working on **Problem solving Projects**
 
 - 🌱 I’m currently learning **Full stack Web development**
 
